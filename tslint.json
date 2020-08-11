@@ -6,6 +6,7 @@
         "parameters",
         "statements"
       ]
+	  
     },
     "array-type": false,
     "arrow-return-shorthand": true,
